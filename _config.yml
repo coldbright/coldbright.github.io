@@ -1,6 +1,8 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Coldbright
+description: 오늘 할 수 있는 일은 오늘 하지 말아라.
+&nbsp;
+어제 해야했던 일은 오늘 해라.
 url: https://coldbright.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -29,14 +31,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: coldbright
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Chany Jung
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/coldbright
+    - https://github.com/coldbright
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +56,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Chany Jung
+  url: https://github.com/coldbright/
+  email: coldbright08@gmail.com
